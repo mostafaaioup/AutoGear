@@ -1,0 +1,376 @@
+
+.nav2{
+    
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+/*    padding-left: 400px;*/
+border-radius: 20px 20px;
+    opacity: .5; 
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+
+.nav2 a{
+    
+    text-decoration: none;
+    margin-right: 50px;
+ color: white;
+    padding: 10px;
+}
+
+.nav2 a:hover{
+    background-color: red;
+    
+    
+}
+
+.body2{
+    
+    
+    background-image: url(imgs/7.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.autogearinfo{
+    color: wheat;
+background-color: black;
+    width: 50%;
+/*    text-align: center;*/
+    margin: auto;
+padding: 10px;
+border-radius: 10px 10px;
+opacity: .9;
+}
+.difinfo{
+    color:burlywood;
+}
+
+.intro{
+    
+    color: snow;
+    
+}
+.rent1{
+   color: snow; 
+}
+
+.welcom{
+    
+    
+    width: 40%;
+text-align: center;
+    margin: auto;
+margin-top: 150px;
+    font-family: 'Courgette', cursive;
+}
+.hr{
+    
+    width: 40%;
+    
+}
+.click{
+    
+    float: none;
+    width: 150PX;
+    border-radius: 5px 5px;
+    background-color: gray;
+    
+}
+
+.click:hover{
+    background-color: white;
+    
+}
+
+
+
+body{
+    
+      background-image: url(imgs/7.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.nav{
+    
+    background-color: black;
+  padding: 15px;
+font-size: 20px;    
+border-radius: 20px 20px;
+    
+    
+}
+.nav a{
+    
+    text-decoration: none;
+    margin-right: 50px;
+ color: white;
+    padding: 10px;
+}
+label{
+    
+    color: white;
+}
+.nav a:hover{
+    background-color: red;
+    border-radius: 10px 10px;
+    
+}
+input{
+     border-radius: 10px 10px;
+    height: 30px;
+    
+}
+    select{
+    
+height: 30px;
+        width: 150px;
+}
+
+    
+.navimg1{
+    
+    width: 100%;
+    height: 150px;
+     border-radius: 10px 10px;
+}
+.header1{
+    text-align: center;
+opacity: .7;
+background-color: black;
+color: white;
+margin-top: 2px;
+border-radius: 10px 10px;
+}
+.cardiv{
+    
+    border: 2px solid black;
+    width: 30%;
+    display: inline-table;
+
+    margin:15px;
+border-radius: 10px 10px;
+    background-color: white;
+
+
+}
+.carimg img{
+    
+    width: 100%;
+    
+    
+  
+    height: 300px;
+        border-radius: 10px 10px;
+   
+
+}
+.carinfo{
+    
+    text-align:left;
+font-size: 20px;
+    
+}
+span{
+    
+    color: red;
+    letter-spacing: 5px;
+}
+
+h5{
+color: black;
+    letter-spacing: 5px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.cardiv:hover{
+    
+    box-shadow:10px 10px grey;
+    transform: scale(1.05)
+    
+}
+button{
+   width: 120px;
+height: 47px;
+border-radius: 10px 10px;
+background-color: green;
+    font-size: 20px;
+    float: right;
+    margin-top:-10px; 
+
+}
+button:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+    
+}
+
+footer{
+    width: 100%;
+    
+    background-color: black;
+    opacity: .7;
+    
+    
+}
+.footer{
+    display: inline-table;
+    color:white;
+    
+    width: 48%;
+    text-align: center;
+    
+    
+}
+.brandnav{
+    background-color: black;
+width: 100%;
+
+margin: auto;
+padding-top: 25px;
+padding-bottom: 20px;
+margin-top: -20px;
+margin-bottom: -100px;
+font-size: 20px;    
+border-radius: 20px 20px;
+opacity: .7;
+    text-align: center;
+
+}
+.brandnav a{
+    text-decoration: none;
+color: white;
+margin-right: 45px;
+padding: 10px;
+    
+}
+.brandnav a:hover{
+    background-color: red;
+    border-radius: 10px 10px;
+}
+.brandwerd{
+    color: crimson;
+font-size: 30px;
+
+}
+.modelsdiv{
+    display:inline-table;
+}
+.backbrand{
+    
+    background-image: url(imgs/8.jpg);
+ background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.moveright{
+    color: white;
+padding-left: 15px;
+}
+.mercdiv{
+    border: solid 2px red;
+margin-top: .1px;
+width: 100%;
+
+}
+
+.firstmod{
+    color: white;
+text-align: center;
+background-color: black;
+opacity: .9;
+}
+
+
+
+.input2{
+    width: 80%;
+    height:30px;
+    border-radius: 0px 0px;
+}
+textarea{
+    
+    width: 80%;
+     height:90px;
+}
+
+
+
+.info{
+    
+    color: wheat;
+    font-size: 20px;
+    
+}
+
+fieldset{
+    width: 40%;
+margin: auto;
+text-align: center;
+background-color: black;
+opacity: 0.8;
+    
+    
+    
+}
+legend{
+    
+    color: green;
+    background-color: black;
+    font-size: 25px;
+}
+.input{
+    
+     border-radius: 0px 0px;
+border: solid 2px grey ;
+}
+
+.submit{
+    float: none;
+    
+}
+
+.signup2{
+    
+    background-image: url(imgs/auto-automobile-automotive-305070.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+        
+}
+.back{
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
